@@ -23,7 +23,7 @@ maxsulotlar = {
     'cola5':[8000, 'gazli ichimlik 1L', '2021/10/11', 50],
     'non6':[2500, 'Uy noni 250gr', '2022/06/15', 50],
     'fanta6':[ 8500, 'gazli ichimlik', '2021/11/10', 20],
-    'cola6':[8000, 'gazli ichimlik 1L', '2021/10/11', 50],,
+    'cola6':[8000, 'gazli ichimlik 1L', '2021/10/11', 50],
 }
 
 
